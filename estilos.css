@@ -18,7 +18,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eb1515', end
 }
 
 .contenedor{
-    width: 90%;
+    width: 100%;
     max-width: 1000px;
     overflow: hidden;
     margin: auto;
