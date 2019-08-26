@@ -18,7 +18,7 @@ body{
 }
 
 header{
-    background-image: url('../img/portada.png');
+    background-image: url('portada.png');
     height:600px;
     background-repeat: no-repeat;
     background-position:center;
